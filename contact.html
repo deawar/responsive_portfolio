@@ -13,7 +13,7 @@
   <body>
   <!-- Nav Bar -->
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-    <a href="#" class="navbar-brand"><h2>Dean Warren</h2></a>
+    <a href="./index.html" class="navbar-brand"><h2>Dean Warren</h2></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -35,7 +35,21 @@
 
   <!-- Main Body -->
   <div class="container py-4">
-
+    <form>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Your Name:</label>
+        <input type="text" class="form-control" id="formGroupNameInput" placeholder="Type in your name.">
+      </div>
+      <div class="form-group">
+        <label for="EmailFormControlInput1">Email address:</label>
+        <input type="email" class="form-control" id="formGroupEmailInput" placeholder="name@example.com">
+      </div>
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Message:</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+    </form>
+    <button type="button" class="btn btn-secondary btn-lg">Send Me a Message</button>
   </div>
 
   <!-- Footer -->
