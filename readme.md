@@ -72,5 +72,5 @@ If you want to see more of my work please click here https://api.github.com/user
 
 ## Deployed Application Links: 
 * [GitHub Repo](https://github.com/deawar/responsive_portfolio)
-* [GitHub Deployed Page]( https://deawar.github.io/responsive_portfolio/)
+* [GitHub Deployed Page]( https://deawar.github.io/responsive_portfolio/index.html)
 * [My Personal VPS](https://www.ssccbogart.info)
