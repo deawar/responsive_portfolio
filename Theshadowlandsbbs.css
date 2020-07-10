@@ -42,5 +42,10 @@
   
   button:focus {
     outline: 1px solid #fff;
+    border-radius: 17px;
     outline-offset: -4px;
+  }
+
+  footer.page-footer {
+    margin: 0;
   }
